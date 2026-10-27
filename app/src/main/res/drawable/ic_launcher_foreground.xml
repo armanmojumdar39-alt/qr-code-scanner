@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Finder pattern: top-left -->
+    <path
+        android:fillColor="#E8FFFB"
+        android:fillType="evenOdd"
+        android:pathData="M30,30h18v18h-18z M34,34v10h10v-10z" />
+    <path
+        android:fillColor="#E8FFFB"
+        android:pathData="M37,37h4v4h-4z" />
+
+    <!-- Finder pattern: top-right -->
+    <path
+        android:fillColor="#E8FFFB"
+        android:fillType="evenOdd"
+        android:pathData="M60,30h18v18h-18z M64,34v10h10v-10z" />
+    <path
+        android:fillColor="#E8FFFB"
+        android:pathData="M67,37h4v4h-4z" />
+
+    <!-- Finder pattern: bottom-left -->
+    <path
+        android:fillColor="#E8FFFB"
+        android:fillType="evenOdd"
+        android:pathData="M30,60h18v18h-18z M34,64v10h10v-10z" />
+    <path
+        android:fillColor="#E8FFFB"
+        android:pathData="M37,67h4v4h-4z" />
+
+    <!-- Data modules: bottom-right -->
+    <path
+        android:fillColor="#E8FFFB"
+        android:pathData="M60,60h6v6h-6z M70,60h8v4h-8z M60,70h4v8h-4z M68,68h4v4h-4z M74,72h4v6h-4z M66,74h4v4h-4z" />
+
+    <!-- Scan beam -->
+    <path
+        android:fillColor="#2DE0C4"
+        android:pathData="M25,51.5h58a2,2 0 0 1 0,4h-58a2,2 0 0 1 0,-4z" />
+</vector>

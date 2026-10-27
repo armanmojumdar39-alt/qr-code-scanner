@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">কিউআর স্ক্যানার প্রো</string>
+
+    <string name="tab_scan">স্ক্যান</string>
+    <string name="tab_history">ইতিহাস</string>
+    <string name="tab_settings">সেটিংস</string>
+
+    <string name="scan_hint">QR কোড বা বারকোডের দিকে ক্যামেরা ধরুন</string>
+    <string name="perm_title">ক্যামেরার অনুমতি প্রয়োজন</string>
+    <string name="perm_body">কিউআর স্ক্যানার প্রো শুধুমাত্র কোড পড়ার জন্য ক্যামেরা ব্যবহার করে। কিছুই রেকর্ড বা আপলোড করা হয় না।</string>
+    <string name="perm_button">ক্যামেরার অনুমতি দিন</string>
+    <string name="perm_open_settings">অ্যাপ সেটিংস খুলুন</string>
+    <string name="cd_torch">ফ্ল্যাশলাইট চালু/বন্ধ</string>
+    <string name="cd_gallery">ছবি থেকে স্ক্যান করুন</string>
+
+    <string name="msg_no_code">এই ছবিতে কোনো QR কোড বা বারকোড পাওয়া যায়নি</string>
+    <string name="msg_no_app">এই কাজের জন্য কোনো অ্যাপ পাওয়া যায়নি</string>
+    <string name="msg_copied">কপি হয়েছে</string>
+
+    <string name="type_url">ওয়েবসাইট</string>
+    <string name="type_wifi">ওয়াই-ফাই</string>
+    <string name="type_contact">কন্টাক্ট</string>
+    <string name="type_email">ইমেইল</string>
+    <string name="type_phone">ফোন নম্বর</string>
+    <string name="type_sms">এসএমএস</string>
+    <string name="type_location">লোকেশন</string>
+    <string name="type_product">বারকোড</string>
+    <string name="type_text">টেক্সট</string>
+
+    <string name="f_url">লিংক</string>
+    <string name="f_network">নেটওয়ার্কের নাম</string>
+    <string name="f_password">পাসওয়ার্ড</string>
+    <string name="f_security">নিরাপত্তা</string>
+    <string name="f_name">নাম</string>
+    <string name="f_phone">ফোন</string>
+    <string name="f_email">ইমেইল</string>
+    <string name="f_org">প্রতিষ্ঠান</string>
+    <string name="f_subject">বিষয়</string>
+    <string name="f_message">বার্তা</string>
+    <string name="f_coordinates">স্থানাঙ্ক</string>
+    <string name="f_text">লেখা</string>
+    <string name="f_code">কোড</string>
+
+    <string name="warn_http">এই লিংকটি এনক্রিপ্টেড নয় (http)। খোলার আগে নিশ্চিত হয়ে নিন।</string>
+
+    <string name="act_open_link">লিংক খুলুন</string>
+    <string name="act_copy">কপি</string>
+    <string name="act_share">শেয়ার</string>
+    <string name="act_copy_password">পাসওয়ার্ড কপি করুন</string>
+    <string name="act_copy_network">নেটওয়ার্কের নাম কপি করুন</string>
+    <string name="act_add_contact">কন্টাক্টে যোগ করুন</string>
+    <string name="act_send_email">ইমেইল পাঠান</string>
+    <string name="act_call">কল করুন</string>
+    <string name="act_send_sms">মেসেজ পাঠান</string>
+    <string name="act_open_map">ম্যাপে দেখুন</string>
+    <string name="act_search">ওয়েবে সার্চ করুন</string>
+
+    <string name="hist_title">স্ক্যানের ইতিহাস</string>
+    <string name="hist_empty_title">এখনও কিছু স্ক্যান করা হয়নি</string>
+    <string name="hist_empty_body">আপনার স্ক্যান করা কোডগুলো এখানে জমা থাকবে।</string>
+    <string name="hist_clear">সব মুছুন</string>
+    <string name="hist_clear_title">সব ইতিহাস মুছবেন?</string>
+    <string name="hist_clear_body">এটি আর ফেরত আনা যাবে না।</string>
+    <string name="hist_delete">মুছুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="clear">মুছে ফেলুন</string>
+
+    <string name="set_title">সেটিংস</string>
+    <string name="set_vibrate">ভাইব্রেশন</string>
+    <string name="set_vibrate_desc">স্ক্যান সফল হলে ফোন কাঁপবে</string>
+    <string name="set_beep">বিপ শব্দ</string>
+    <string name="set_beep_desc">স্ক্যান সফল হলে শব্দ হবে</string>
+    <string name="set_history">ইতিহাস সংরক্ষণ</string>
+    <string name="set_history_desc">স্ক্যান করা কোড এই ডিভাইসে জমা রাখুন</string>
+    <string name="set_about">অ্যাপ সম্পর্কে</string>
+    <string name="set_version">সংস্করণ %1$s</string>
+    <string name="set_privacy">সম্পূর্ণ অফলাইনে কাজ করে। আপনার ডেটা ডিভাইসের বাইরে যায় না।</string>
+</resources>
